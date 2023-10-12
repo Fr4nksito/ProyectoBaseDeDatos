@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1026387200592",
+    "firebase_url": "https://primerp-5e486-default-rtdb.firebaseio.com",
+    "project_id": "primerp-5e486",
+    "storage_bucket": "primerp-5e486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026387200592:android:41708a7e43d41d6d5ddf55",
+        "android_client_info": {
+          "package_name": "frank.bailey.ano.dos.proyectobasededatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8lQza6ZiEIWs9dCnmJkbkAgXscTkK2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
